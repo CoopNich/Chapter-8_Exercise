@@ -1,0 +1,18 @@
+.pageHeader {
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+}
+.list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    
+}
+.shop {
+    border: 3px solid white;
+    width: 30%;
+    
+}
+/* this width attribute resized the boxes and fixed my biggest
+issue with this project */
